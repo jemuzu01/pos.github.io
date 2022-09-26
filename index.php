@@ -6,7 +6,7 @@
         <div class="main-content">
             <?php include('includes/nav.php')?>
             <div class="contents dashboard-con">
-                
+                <h2>hotdog</h2>
 
             </div>
         </div>      
