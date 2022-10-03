@@ -9,14 +9,6 @@ body
 {
     font-family: 'Heebo', sans-serif !important;
 }
-header
-{
-    width: 100%;
-    position: sticky;
-    top: 0;
-    height: 50px;
-    background-color: red;
-}
 
 h2
 {
