@@ -4,11 +4,7 @@
 
     <div class="container-fluid">
         <div class="main-content">
-            <?php include('includes/nav.php')?>
-            <div class="contents dashboard-con">
-        
-
-            </div>
+           
         </div>      
     </div>
     
