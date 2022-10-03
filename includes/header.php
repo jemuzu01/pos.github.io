@@ -12,5 +12,11 @@
     
 </head>
 <header>
-    
+    <div class="main-menu-con">
+        <ul class="main-menu">
+            <li class="nav-item">Home</li>
+            <li class="nav-item">Personal Information</li>
+            <li class="nav-item">About Me</li>
+        </ul>
+    </div>
 </header>

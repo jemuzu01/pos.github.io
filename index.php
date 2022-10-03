@@ -5,7 +5,6 @@
     <div class="container-fluid">
       
         <div class="main-content">
-           dasadadadasd
         </div>      
     </div>
 </body>
