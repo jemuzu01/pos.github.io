@@ -7,13 +7,12 @@
         <div class="main-content">
             <section class="main__banner">
                 <div class="main__banner_container">
-                    <div class="main_banner_first__col">
-                        <h1>James Gubaton</h1>
-                        <h6>Programmer</h6>
-                    </div>
-                    <div class="main_banner_second__col">
-                        <img src="./assets/images/__MACOS/svg/characters/Character03.svg" alt="">
-                    </div>
+                    <h1>Unlimited movies,TV <br> shows, and more.</h1>
+                     <h4>Watch anywhere. Cancel anytime.</h4>
+                     <h5>Ready to watch? Enter your email to create or restart your membership.</h5>
+                     <div class="banner-search">
+                        <input type="text"><button>Get Started <i class="far fa-chevron-right"></i></button>
+                     </div>
                 </div>  
             </section>
         </div>      
