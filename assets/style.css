@@ -362,6 +362,7 @@ header {
   .fifth__section
   {
    padding: 70px 45px;
+   border-bottom: 8px solid #222;
   }
   .fifth__accordion__row
   {
@@ -369,13 +370,16 @@ header {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 20px;
+    align-items: center;
   }
   .accordion
   {
     display: flex;
     flex-direction: column;
     gap: 1px;
+    width: 100%;
+    margin-bottom: 52px;
   }
  
   .accordion h1,.accordion i
@@ -394,4 +398,35 @@ header {
 }
 .questions.open {
     display: none;
+}
+.footer-links-container {
+    max-width: 1090px;
+    margin: 0 auto;
+    padding: 70px 45px 20px;
+}
+.footer-links-container h5 {
+    padding: 0px 50px 30px ;
+}
+.footer-links-container a {
+    color: #737373;
+    font-size: 16px;
+    text-decoration: none;
+}
+ul#footer-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 0 50px;
+}
+li.footer-list {
+    width: 21.439%;
+}
+li.footer-list:last-child {
+    margin-top: 24px;
+    margin-bottom: 13px;
+}
+li.footer-list a {
+   font-size: 13px !important;
+   color: #737373;
+   text-decoration: none;
 }

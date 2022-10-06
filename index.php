@@ -103,7 +103,10 @@
                         </h1>
                     </div>
                 </div>
-                
+                <h5>Ready to watch? Enter your email to create or restart your membership.</h5>
+                <div class="banner-search">
+                        <input type="text"><button>Get Started <i class="fa-solid fa-angle-right"></i></button>
+                </div>
             </div>
         </section>
                      
